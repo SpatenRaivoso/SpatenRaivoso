@@ -14,7 +14,7 @@ Atualmente curso **Engenharia de Software** e sou fascinado por tudo que envolve
 - 💻 Especialista em: React.js, Next.js, React Native, Node.js, TypeScript
 - 🛠️ Banco de dados: PostgreSQL, Supabase, MongoDB
 - 🌐 Sempre aprendendo e construindo novos projetos
-- 📍 Baseado em Caldas Novas – GO
+- 📍 Baseado em Goiânia – GO
 
 ---
 
@@ -43,8 +43,8 @@ Atualmente curso **Engenharia de Software** e sou fascinado por tudo que envolve
 
 ### 📫 Contato
 
-- Email: [seu-email@gmail.com]
+- Email: [pedroldima52@gmail.com]
 - LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- Portfólio: [www.seusite.com](https://www.seusite.com)
+- Portfólio: [www.seusite.com](https://pedrodeveloper.netlify.app/)
 
 ---
