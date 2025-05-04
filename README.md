@@ -45,6 +45,6 @@ Atualmente curso **Engenharia de Software** e sou fascinado por tudo que envolve
 
 - Email: [pedroldima52@gmail.com]
 - LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- Portfólio: [www.seusite.com](https://pedrodeveloper.netlify.app/)
+- Portfólio: [https://pedrodeveloper.netlify.app/](https://pedrodeveloper.netlify.app/)
 
 ---
