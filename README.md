@@ -1,24 +1,52 @@
 <h1 align="center">Pedro Lucas 👨‍💻</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack | Apaixonado por tecnologia | Criador de soluções web e mobile
+  Desenvolvedor Full Stack • Engenharia de Software • Soluções Web & Mobile escaláveis
 </p>
 
 ---
 
-### 👋 Sobre mim
+## 👋 Sobre mim
 
-Sou o Pedro Lucas, desenvolvedor Full Stack com 4 anos de experiência, focado em entregar soluções completas e modernas.  
-Atualmente curso **Engenharia de Software** e sou fascinado por tudo que envolve código, design funcional e performance.
+Sou **Pedro Lucas**, desenvolvedor **Full Stack** com mais de **4 anos de experiência** no desenvolvimento de aplicações web e mobile modernas, performáticas e bem estruturadas.  
+Atualmente curso **Engenharia de Software**, com foco constante em boas práticas, arquitetura de sistemas e experiência do usuário.
 
-- 💻 Especialista em: React.js, Next.js, React Native, Node.js, TypeScript
-- 🛠️ Banco de dados: PostgreSQL, Supabase, MongoDB
-- 🌐 Sempre aprendendo e construindo novos projetos
-- 📍 Baseado em Goiânia – GO
+Atuo em projetos completos — do planejamento à entrega — sempre buscando **código limpo, escalável e orientado a resultados**. Tenho facilidade em transformar ideias em produtos funcionais que resolvem problemas reais.
+
+- 💡 Experiência sólida em **frontend e backend**
+- 🧩 Desenvolvimento de sistemas completos (dashboards, SaaS, APIs, autenticação, multi-tenant)
+- 📚 Aprendizado contínuo e evolução técnica constante
+- 📍 Goiânia – GO, Brasil
 
 ---
 
-### 🚀 Tecnologias que uso
+## 🧠 Principais Tecnologias
+
+### Frontend & Mobile
+- React.js  
+- Next.js  
+- React Native  
+- TypeScript  
+- Tailwind CSS  
+
+### Backend
+- Node.js  
+- APIs REST  
+- Autenticação e regras de negócio  
+
+### Banco de Dados
+- PostgreSQL  
+- Supabase  
+- MongoDB  
+
+### Outros
+- Arquitetura de aplicações  
+- Integração frontend + backend  
+- Versionamento com Git  
+
+---
+
+## 🚀 Stack Tecnológica
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
@@ -32,7 +60,7 @@ Atualmente curso **Engenharia de Software** e sou fascinado por tudo que envolve
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrolucasdev&show_icons=true&theme=radical" />
@@ -41,10 +69,10 @@ Atualmente curso **Engenharia de Software** e sou fascinado por tudo que envolve
 
 ---
 
-### 📫 Contato
+## 📫 Contato
 
-- Email: [pedroldima52@gmail.com]
-- LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- Portfólio: [https://pedrodeveloper.netlify.app/](https://pedrodeveloper.netlify.app/)
+- 📧 **Email:** pedroldima52@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
+- 🌐 **Portfólio:** [https://pedrodeveloper.netlify.app/](https://pedrodeveloper.netlify.app/)
 
 ---
