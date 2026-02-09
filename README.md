@@ -72,7 +72,7 @@ Atuo em projetos completos — do planejamento à entrega — sempre buscando **
 ## 📫 Contato
 
 - 📧 **Email:** pedroldima52@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
+- 💼 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/pedrolucasdev)  
 - 🌐 **Portfólio:** [https://pedrodeveloper.netlify.app/](https://pedrodeveloper.netlify.app/)
 
 ---
